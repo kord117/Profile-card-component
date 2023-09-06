@@ -9,7 +9,7 @@ html {
   font-size: 14px;
   height: 100vh;
   background-image: url("./images/bg-pattern-top.svg"),
-    url("/images/bg-pattern-bottom.svg");
+    url("./images/bg-pattern-bottom.svg");
   background-color: hsl(185, 75%, 39%);
   background-repeat: no-repeat;
   background-position: left -620px top -190px, right -620px bottom -190px;
