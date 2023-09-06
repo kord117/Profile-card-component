@@ -8,7 +8,7 @@ html {
   text-align: center;
   font-size: 14px;
   height: 100vh;
-  background-image: url("/images/bg-pattern-top.svg"),
+  background-image: url("./images/bg-pattern-top.svg"),
     url("/images/bg-pattern-bottom.svg");
   background-color: hsl(185, 75%, 39%);
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ img {
 
 main {
   background-color: white;
-  background-image: url("/images/bg-pattern-card.svg");
+  background-image: url("./images/bg-pattern-card.svg");
   background-repeat: no-repeat;
   padding-top: 6em;
   border-radius: 20px;
